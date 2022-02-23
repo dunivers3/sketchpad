@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Nosifer&display=swap");
+
+*{
+    box-sizing: border-box;
+    font-family: Nosifer, cursive;
+    padding: 0px;
+    text-align: center;
+    color:antiquewhite;
+    background-color: #1D574E;
+    font-size: 24px;
+
+}
